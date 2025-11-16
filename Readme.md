@@ -8,10 +8,11 @@ Content:
 2. [Pull Request](#pull-request)
 3. [Resolving Merge Conflicts](#resolving-merge-conflicts)
 4. [Removing commit traces - Reset](#removing-commit-traces)
-5. [Reverting Changes](#reverting-changes)
-6. [Stashing Changes](#stashing-changes)
-7. [How to use private Github Repo with SSH](#how-to-use-private-github-repo-with-ssh)
-8. [Fetch all remote branches into workspace ](#fetch-all-remote-branches-into-workspace)
+5. [Removing tracing paths](#removing-tracing-paths)
+6. [Reverting Changes](#reverting-changes)
+7. [Stashing Changes](#stashing-changes)
+8. [How to use private Github Repo with SSH](#how-to-use-private-github-repo-with-ssh)
+9. [Fetch all remote branches into workspace ](#fetch-all-remote-branches-into-workspace)
 
 ## Basic Git Commands
 
